@@ -10,10 +10,13 @@
 </Context>
 
 <!--
+    54.169.49.148
     
     mysql@sosaleyserver
     url="jdbc:mysql://cantracker.mysql.server1.local.placer.in/CANtracker" name="jdbc/TrackDB" password="mysql@sosaleyserver" username="root"/>
- 
+    
+    url="jdbc:mysql://54.169.49.148:3306/CANtracker" name="jdbc/TrackDB" password="mysql@sosaleyserver" username="root"/>
+    
     url="jdbc:mysql://localhost/CANtracker" name="jdbc/TrackDB" password="toor@123" username="root"/>
     
     dev server (172.16.0.151)
